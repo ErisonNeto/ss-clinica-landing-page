@@ -1,0 +1,13 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="a" x1="0" y1="0" x2="1200" y2="900"><stop stop-color="#25372F"/><stop offset="1" stop-color="#111C17"/></linearGradient></defs>
+<rect width="1200" height="900" rx="60" fill="url(#a)"/>
+<rect x="142" y="126" width="916" height="648" rx="30" stroke="#D5B18B" stroke-opacity=".55" stroke-width="2"/>
+<rect x="209" y="190" width="782" height="438" rx="22" fill="#F3ECE2"/>
+<rect x="264" y="243" width="279" height="332" rx="18" fill="#D4C2B0"/>
+<rect x="585" y="243" width="351" height="55" rx="10" fill="#394E43"/>
+<rect x="585" y="327" width="274" height="28" rx="14" fill="#B59678" fill-opacity=".8"/>
+<rect x="585" y="384" width="322" height="28" rx="14" fill="#D8C8B8"/>
+<rect x="585" y="441" width="231" height="28" rx="14" fill="#D8C8B8"/>
+<rect x="585" y="514" width="137" height="61" rx="30.5" fill="#A57C55"/>
+<path d="M473 322C429 268 339 270 297 330C254 392 293 488 364 504C433 520 497 459 488 389" stroke="#F5EEE5" stroke-width="7" stroke-linecap="round"/>
+</svg>
